@@ -1,0 +1,22 @@
+<idea-plugin>
+    <id>org.mm.testplugin.testplugin</id>
+    <name>testplgn</name>
+    <vendor>MatMeh</vendor>
+
+    <description><![CDATA[
+    A short description about my test plugin that was built for Jetbrains Research Internship.
+    ]]></description>
+
+    <depends>com.intellij.modules.lang</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+
+    </extensions>
+
+    <actions>
+        <group id="MyPlugin.SampleMenu" text="Greeting" description="Greeting menu">
+            <add-to-group group-id="MainToolBar" anchor="last"/>
+            <action id="Myplugin.Textboxes" class="testplugin.AstVisualizer" text="AST" description="Build AST and get it on the screen"/>
+        </group>
+    </actions>
+</idea-plugin>

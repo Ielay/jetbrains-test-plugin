@@ -1,0 +1,740 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a8cb2eae-93ae-4838-8b23-9516e140f89f" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/testplugin$testplugin__clean_runIde_.ic" NAME="testplugin [clean runIde] Coverage Results" MODIFIED="1568231569804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="240" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="testplugin" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="testplugin" type="f1a62948:ProjectNode" />
+                <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/testplugin/AstVisualizer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="89">
+              <caret line="59" column="40" selection-start-line="59" selection-start-column="40" selection-end-line="59" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/testplugin/Ast.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="229">
+              <caret line="34" column="35" lean-forward="true" selection-start-line="34" selection-start-column="35" selection-end-line="34" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="15">
+                <caret line="1" column="29" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>myToolWindow</find>
+      <find>END_OF</find>
+      <find>COMMENT</find>
+      <find>visible</find>
+      <find>parse</find>
+      <find>private ASTNode parse(IElementType root, PsiBuilder builder){</find>
+      <find>CLASS_</find>
+      <find>IDENTI</find>
+      <find>panel</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/testplugin/AstTreeVisualizer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/testplugin/MyToolWindow.form" />
+        <option value="$PROJECT_DIR$/src/main/java/testplugin/MyTestPopup.java" />
+        <option value="$PROJECT_DIR$/src/main/java/testplugin/MyToolWindow.java" />
+        <option value="$PROJECT_DIR$/src/main/java/testplugin/MyToolWindowFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/testplugin/AstToolWindow.form" />
+        <option value="$PROJECT_DIR$/src/main/java/testplugin/AstToolWindow.java" />
+        <option value="$PROJECT_DIR$/src/main/java/testplugin/TreeExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/testplugin/AstToolWindowFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/META-INF/plugin.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/Test.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ParserTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/testplugin/AstVisualizer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/testplugin/Ast.java" />
+        <option value="$PROJECT_DIR$/src/main/java/testplugin/Ast.form" />
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-6" />
+    <option name="y" value="-4" />
+    <option name="width" value="1916" />
+    <option name="height" value="1068" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="testplugin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testplugin" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="testplugin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testplugin" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="gradle" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testplugin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testplugin" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testplugin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testplugin" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="testplugin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testplugin" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testplugin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testplugin" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="testplugin" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH" value="439" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="464" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.updates" />
+  </component>
+  <component name="PsiViewer.ProjectComponent">
+    <option name="HIGHLIGHT" value="false" />
+    <option name="FILTER_WHITESPACE" value="false" />
+    <option name="SHOW_PROPERTIES" value="true" />
+    <option name="SPLIT_DIVIDER_POSITION" value="300" />
+    <option name="AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="AUTOSCROLL_FROM_SOURCE" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/testplugin" />
+      <recent name="$PROJECT_DIR$/src/main/java" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Gradle.testplugin [clean runIde]">
+    <configuration name="Ast" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testplugin.Ast" />
+      <module name="testplugin_main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testplugin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Plugin" type="GradleRunConfiguration" factoryName="Gradle" singleton="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":runIde" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="testplugin [clean runIde]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+            <option value="runIde" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="ParserTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testplugin_test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ParserTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Ast" />
+      <item itemvalue="Gradle.Plugin" />
+      <item itemvalue="Gradle.testplugin [clean runIde]" />
+      <item itemvalue="JUnit.ParserTest.test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.testplugin [clean runIde]" />
+        <item itemvalue="JUnit.ParserTest.test" />
+        <item itemvalue="Application.Ast" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a8cb2eae-93ae-4838-8b23-9516e140f89f" name="Default Changelist" comment="" />
+      <created>1568221431051</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568221431051</updated>
+      <workItem from="1568221435925" duration="38992000" />
+      <workItem from="1568311791026" duration="2826000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ParserTest_test - 2019.09.12 at 03h 41m 03s.xml">
+      <configuration name="ParserTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ParserTest_test - 2019.09.12 at 03h 41m 09s.xml">
+      <configuration name="ParserTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ParserTest_test - 2019.09.12 at 03h 41m 24s.xml">
+      <configuration name="ParserTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ParserTest_test - 2019.09.12 at 03h 41m 38s.xml">
+      <configuration name="ParserTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ParserTest_test - 2019.09.12 at 03h 49m 45s.xml">
+      <configuration name="ParserTest.test" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="41818000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="-3" width="1366" height="771" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1659091" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32985386" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32985386" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.46137786" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="YouTrack" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32985386" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="12" weight="0.32985386" />
+      <window_info anchor="bottom" id="Messages" order="13" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="PsiViewer" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Gradle" order="4" weight="0.087878786" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.32977587" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Capture Tool" order="1" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.1659091" />
+      <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32985386" />
+      <window_info active="true" anchor="bottom" id="Run" order="3" visible="true" weight="0.32985386" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.46137786" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="YouTrack" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32985386" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="13" weight="0.32985386" />
+      <window_info anchor="bottom" id="Messages" order="14" />
+      <window_info anchor="right" id="Maven" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="PsiViewer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="4" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="5" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="6" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="7" />
+      <window_info anchor="right" id="Gradle" order="8" visible="true" weight="0.087878786" />
+      <window_info anchor="right" id="Maven Projects" order="9" />
+      <window_info anchor="right" id="Database" order="10" />
+      <window_info anchor="right" id="Palette&#9;" order="11" />
+      <window_info anchor="right" id="Coverage" order="12" side_tool="true" weight="0.32977587" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2018.2.7/7a370fa2e7fb0a6888d821f9a73320575bb4cb61/ideaIC-2018.2.7-sources.jar!/com/intellij/psi/impl/PsiJavaParserFacadeImpl.java</url>
+          <line>239</line>
+          <properties />
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/testplugin/AstVisualizer.java</url>
+          <line>70</line>
+          <properties />
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/testplugin/AstVisualizer.java</url>
+          <line>59</line>
+          <properties />
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>rootASTNode.getFirstChildNode().getChildren(null)</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>com.intellij.psi.impl.source.tree.java.PsiCodeBlockImpl</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>rootASTNode.getFirstChildNode()</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>com.intellij.psi.impl.source.tree.java.PsiCodeBlockImpl</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>builder</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>builder.getTokenType()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>builder.getTokenText()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>PsiJavaParserFacadeImpl.CODE_BLOCK.parse(PsiBuilderFactory.getInstance().createBuilder(new JavaParserDefinition(), new JavaLexer(LanguageLevel.JDK_1_8), selectedText));</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>com.intellij.psi.impl.source.tree.java.JavaFileElement,com.intellij.lang.ASTFactory,com.intellij.openapi.fileTypes.FileType,java.lang.annotation.ElementType,com.intellij.psi.impl.source.CodeFragmentElement</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>PsiJavaParserFacadeImpl.REFERENCE.parse(PsiBuilderFactory.getInstance().createBuilder(new JavaParserDefinition(), new JavaLexer(LanguageLevel.JDK_1_8), selectedText));</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>com.intellij.psi.impl.source.tree.java.JavaFileElement,com.intellij.lang.ASTFactory,com.intellij.openapi.fileTypes.FileType,java.lang.annotation.ElementType,com.intellij.psi.impl.source.CodeFragmentElement</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>PsiJavaFileImpl</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>com.intellij.psi.impl.source.tree.java.JavaFileElement,com.intellij.lang.ASTFactory</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>codePsi.get()</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>com.intellij.psi.impl.source.tree.java.JavaFileElement,com.intellij.lang.ASTFactory</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2018.2.7/7a370fa2e7fb0a6888d821f9a73320575bb4cb61/ideaIC-2018.2.7-sources.jar!/com/intellij/lang/LighterLazyParseableNode.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2018.2.7/7a370fa2e7fb0a6888d821f9a73320575bb4cb61/ideaIC-2018.2.7-sources.jar!/com/intellij/lang/jvm/JvmLanguage.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2018.2.7/7a370fa2e7fb0a6888d821f9a73320575bb4cb61/ideaIC-2018.2.7-sources.jar!/com/intellij/lang/Language.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2018.2.7/7a370fa2e7fb0a6888d821f9a73320575bb4cb61/ideaIC-2018.2.7-sources.jar!/com/intellij/lang/java/JavaLanguage.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2018.2.7/7a370fa2e7fb0a6888d821f9a73320575bb4cb61/ideaIC-2018.2.7-sources.jar!/com/intellij/openapi/components/ServiceManager.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2018.2.7/7a370fa2e7fb0a6888d821f9a73320575bb4cb61/ideaIC-2018.2.7-sources.jar!/com/intellij/psi/text/BlockSupport.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2018.2.7/7a370fa2e7fb0a6888d821f9a73320575bb4cb61/ideaIC-2018.2.7-sources.jar!/com/intellij/psi/PsiJavaParserFacade.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2018.2.7/7a370fa2e7fb0a6888d821f9a73320575bb4cb61/ideaIC-2018.2.7-sources.jar!/com/intellij/lang/java/parser/FileParser.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2018.2.7/7a370fa2e7fb0a6888d821f9a73320575bb4cb61/ideaIC-2018.2.7-sources.jar!/com/intellij/lang/java/parser/ExpressionParser.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2018.2.7/7a370fa2e7fb0a6888d821f9a73320575bb4cb61/ideaIC-2018.2.7-sources.jar!/com/intellij/lang/java/parser/StatementParser.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2018.2.7/7a370fa2e7fb0a6888d821f9a73320575bb4cb61/ideaIC-2018.2.7-sources.jar!/com/intellij/lang/java/parser/JavaParser.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2018.2.7/7a370fa2e7fb0a6888d821f9a73320575bb4cb61/ideaIC-2018.2.7-sources.jar!/com/intellij/lang/impl/PsiBuilderImpl.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2018.2.7/7a370fa2e7fb0a6888d821f9a73320575bb4cb61/ideaIC-2018.2.7-sources.jar!/com/intellij/lang/ASTNode.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2018.2.7/3518fa6882d3e1645aa073763c8e896eb2a471bd/ideaIC-2018.2.7/lib/junit-4.12.jar!/org/junit/runners/BlockJUnit4ClassRunner.class" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2018.2.7/3518fa6882d3e1645aa073763c8e896eb2a471bd/ideaIC-2018.2.7/lib/junit-4.12.jar!/org/junit/runners/ParentRunner.class" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2018.2.7/3518fa6882d3e1645aa073763c8e896eb2a471bd/ideaIC-2018.2.7/lib/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2018.2.7/7a370fa2e7fb0a6888d821f9a73320575bb4cb61/ideaIC-2018.2.7-sources.jar!/com/intellij/lang/PsiBuilderFactory.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/ParserTest.java" />
+    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/src.zip!/java/text/PatternEntry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2250">
+          <caret line="198" column="28" lean-forward="true" selection-start-line="198" selection-start-column="28" selection-end-line="198" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2018.2.7/7a370fa2e7fb0a6888d821f9a73320575bb4cb61/ideaIC-2018.2.7-sources.jar!/com/intellij/psi/impl/source/tree/JavaDocElementType.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2018.2.7/7a370fa2e7fb0a6888d821f9a73320575bb4cb61/ideaIC-2018.2.7-sources.jar!/com/intellij/psi/impl/source/javadoc/PsiDocTagValueImpl.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2018.2.7/7a370fa2e7fb0a6888d821f9a73320575bb4cb61/ideaIC-2018.2.7-sources.jar!/com/intellij/lang/ASTFactory.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2018.2.7/7a370fa2e7fb0a6888d821f9a73320575bb4cb61/ideaIC-2018.2.7-sources.jar!/com/intellij/psi/impl/source/tree/CoreJavaASTFactory.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2018.2.7/7a370fa2e7fb0a6888d821f9a73320575bb4cb61/ideaIC-2018.2.7-sources.jar!/com/intellij/psi/impl/source/tree/JavaASTFactory.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2018.2.7/7a370fa2e7fb0a6888d821f9a73320575bb4cb61/ideaIC-2018.2.7-sources.jar!/com/intellij/psi/impl/source/tree/LazyParseableElement.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2018.2.7/7a370fa2e7fb0a6888d821f9a73320575bb4cb61/ideaIC-2018.2.7-sources.jar!/com/intellij/psi/impl/source/tree/CompositeElement.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2018.2.7/7a370fa2e7fb0a6888d821f9a73320575bb4cb61/ideaIC-2018.2.7-sources.jar!/com/intellij/psi/impl/source/tree/TreeElement.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2018.2.7/7a370fa2e7fb0a6888d821f9a73320575bb4cb61/ideaIC-2018.2.7-sources.jar!/com/intellij/psi/impl/ElementBase.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2018.2.7/7a370fa2e7fb0a6888d821f9a73320575bb4cb61/ideaIC-2018.2.7-sources.jar!/com/intellij/psi/impl/source/tree/FileElement.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2018.2.7/7a370fa2e7fb0a6888d821f9a73320575bb4cb61/ideaIC-2018.2.7-sources.jar!/com/intellij/psi/impl/source/CodeFragmentElement.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2018.2.7/7a370fa2e7fb0a6888d821f9a73320575bb4cb61/ideaIC-2018.2.7-sources.jar!/com/intellij/lang/java/JavaParserDefinition.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2018.2.7/7a370fa2e7fb0a6888d821f9a73320575bb4cb61/ideaIC-2018.2.7-sources.jar!/com/intellij/psi/impl/PsiJavaParserFacadeImpl.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2018.2.7/3518fa6882d3e1645aa073763c8e896eb2a471bd/ideaIC-2018.2.7/lib/java-impl.jar!/com/intellij/psi/impl/source/tree/JavaElementType.class" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2018.2.7/7a370fa2e7fb0a6888d821f9a73320575bb4cb61/ideaIC-2018.2.7-sources.jar!/com/intellij/psi/tree/IElementType.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2018.2.7/7a370fa2e7fb0a6888d821f9a73320575bb4cb61/ideaIC-2018.2.7-sources.jar!/com/intellij/psi/impl/source/parsing/xml/DtdParsing.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2018.2.7/7a370fa2e7fb0a6888d821f9a73320575bb4cb61/ideaIC-2018.2.7-sources.jar!/com/intellij/lang/PsiBuilder.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2018.2.7/7a370fa2e7fb0a6888d821f9a73320575bb4cb61/ideaIC-2018.2.7-sources.jar!/com/intellij/psi/tree/java/IJavaElementType.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2018.2.7/7a370fa2e7fb0a6888d821f9a73320575bb4cb61/ideaIC-2018.2.7-sources.jar!/com/intellij/psi/JavaTokenType.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/plugin.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2018.2.7/3518fa6882d3e1645aa073763c8e896eb2a471bd/ideaIC-2018.2.7/lib/swingx-core-1.6.2-2.jar!/org/jdesktop/swingx/JXTitledSeparator.class" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2018.2.7/3518fa6882d3e1645aa073763c8e896eb2a471bd/ideaIC-2018.2.7/lib/swingx-core-1.6.2-2.jar!/org/jdesktop/swingx/plaf/basic/BasicTitledPanelUI.class" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2018.2.7/7a370fa2e7fb0a6888d821f9a73320575bb4cb61/ideaIC-2018.2.7-sources.jar!/com/intellij/ide/IdeEventQueue.java" />
+    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/src.zip!/java/awt/Window.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="800" column="16" selection-start-line="800" selection-start-column="16" selection-end-line="800" selection-end-column="16" />
+          <folding>
+            <element signature="e#36453#36454#0" expanded="true" />
+            <element signature="e#36488#36489#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/src.zip!/javax/swing/JLabel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2250">
+          <caret line="192" column="11" selection-start-line="192" selection-start-column="11" selection-end-line="192" selection-end-column="11" />
+          <folding>
+            <element signature="e#7093#7094#0" expanded="true" />
+            <element signature="e#7134#7135#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/testplugin/Ast.form">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="ui-designer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/src.zip!/javax/swing/JTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="630" column="11" selection-start-line="630" selection-start-column="11" selection-end-line="630" selection-end-column="11" />
+          <folding>
+            <element signature="e#24298#24299#0" expanded="true" />
+            <element signature="e#24331#24332#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/testplugin/AstVisualizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89">
+          <caret line="59" column="40" selection-start-line="59" selection-start-column="40" selection-end-line="59" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/testplugin/Ast.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="34" column="35" lean-forward="true" selection-start-line="34" selection-start-column="35" selection-end-line="34" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="15">
+            <caret line="1" column="29" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="gradleExecuteTaskHistory">
+    <option value="$PROJECT_DIR$" />
+    <option value="clean runIde" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>testplugin_test|testplugin</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Gradle: junit:junit:4.12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
