@@ -16,12 +16,13 @@ public class Ast extends JFrame {
     private JPanel left_panel;
     private JPanel right_panel;
 
-//    private JLabel selectedLabel;
-
     public Ast(DefaultMutableTreeNode rootNode, int exceptionsCount, int variablesInitCount, int variablesAccessCount) {
-        JLabel exceptionsNumber = new JLabel("Exceptions: " + String.valueOf(exceptionsCount));
-        JLabel variablesInitNumber = new JLabel("Variables init: " + String.valueOf(variablesInitCount));
-        JLabel variablesAccessNumber = new JLabel("Variables access: " + String.valueOf(variablesAccessCount));
+        panel = new JPanel();
+        left_panel = new JPanel();
+        right_panel = new JPanel(new GridLayout(3, 1));
+
+        panel.add(left_panel, LEFT_ALIGNMENT);
+        panel.add(right_panel, RIGHT_ALIGNMENT);
 
         //create the tree by passing in the root node
         tree = new JTree(rootNode);
@@ -32,21 +33,17 @@ public class Ast extends JFrame {
         tree.setShowsRootHandles(true);
         tree.setRootVisible(true);
 
-        add(new JScrollPane(tree));
+        left_panel.add(new JScrollPane(tree));
 
-//        selectedLabel = new JLabel();
-//        add(selectedLabel, BorderLayout.SOUTH);
-//        tree.getSelectionModel().addTreeSelectionListener(new TreeSelectionListener() {
-//            @Override
-//            public void valueChanged(TreeSelectionEvent e) {
-//                DefaultMutableTreeNode selectedNode = (DefaultMutableTreeNode) tree.getLastSelectedPathComponent();
-//                selectedLabel.setText(selectedNode.getUserObject().toString());
-//            }
-//        });
+        JLabel exceptionsNumber = new JLabel("Exceptions: " + String.valueOf(exceptionsCount));
+        JLabel variablesInitNumber = new JLabel("Variables init: " + String.valueOf(variablesInitCount));
+        JLabel variablesAccessNumber = new JLabel("Variables access: " + String.valueOf(variablesAccessCount));
 
-        add(exceptionsNumber);
-        add(variablesInitNumber);
-        add(variablesAccessNumber);
+        right_panel.add(exceptionsNumber);
+        right_panel.add(variablesInitNumber);
+        right_panel.add(variablesAccessNumber);
+
+        this.add(panel);
 
         this.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
         this.setTitle("AST");

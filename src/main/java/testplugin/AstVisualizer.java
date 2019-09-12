@@ -72,6 +72,7 @@ public class AstVisualizer extends AnAction {
 
         while(!builder.eof()) {
             if (builder.getTokenType() == IDENTIFIER && builder.lookAhead(1) == DOT && builder.lookAhead(2) == IDENTIFIER && builder.lookAhead(3) == LPARENTH) {
+                ++variablesAccessCount;
                 parseMethodCall(builder);
                 continue;
             }
@@ -81,11 +82,6 @@ public class AstVisualizer extends AnAction {
                 parseExceptionThrowing(builder);
                 continue;
             }
-
-//            if (builder.getTokenType() == IF_KEYWORD) {
-//                parseIfCondition(builder);
-//                continue;
-//            }
 
             if (builder.getTokenType() == FINAL_KEYWORD || builder.getTokenType() == STATIC_KEYWORD || builder.getTokenType() == IDENTIFIER) {
                 parseStatement(builder);
@@ -130,12 +126,28 @@ public class AstVisualizer extends AnAction {
 
         while (!builder.eof()) {
             builder.advanceLexer();
+
+            if (builder.getTokenType() == IDENTIFIER && builder.lookAhead(1) == WHITE_SPACE && builder.lookAhead(2) == IDENTIFIER) {
+                ++variablesInitCount;
+                parseVariableInit(builder);
+            }
+
             if (builder.getTokenType() == SEMICOLON) {
                 builder.advanceLexer();
                 statementMarket.done(JavaElementType.EXPRESSION_STATEMENT);
                 break;
             }
         }
+    }
+
+    private void parseVariableInit(PsiBuilder builder) {
+        PsiBuilder.Marker varInitMarker = builder.mark();
+
+        builder.advanceLexer(); // var type
+        builder.advanceLexer(); // whitespace
+        builder.advanceLexer(); // var name
+
+        varInitMarker.done(JavaElementType.LOCAL_VARIABLE);
     }
 
     private DefaultMutableTreeNode getTree(ASTNode ast, DefaultMutableTreeNode parentTreeNode) {
@@ -150,12 +162,7 @@ public class AstVisualizer extends AnAction {
                 continue;
             }
 
-            DefaultMutableTreeNode childTreeNode;
-//            if (astNode.getChildren(null).length == 0) {
-//                childTreeNode = getTree(astNode, new DefaultMutableTreeNode(astNode.getText()));
-//            } else {
-                childTreeNode = getTree(astNode, new DefaultMutableTreeNode(astNode));
-//            }
+            DefaultMutableTreeNode childTreeNode = getTree(astNode, new DefaultMutableTreeNode(astNode));
 
             parentTreeNode.add(childTreeNode);
         }
